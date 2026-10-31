@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Selenium Automation Framework built using Java, Selenium WebDriver, TestNG, Maven, and the Page Object Model (POM). The framework automates common workflows in the OrangeHRM demo application, including login validation and employee management.
+A Selenium Automation Framework built using Java, Selenium WebDriver, TestNG, Maven, and the Page Object Model (POM). The framework automates common workflows in the  demo application, including login validation and employee management.
 
 ---
 
